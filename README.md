@@ -10,5 +10,5 @@ of digging the Internet.
 
 1. We use this repo for indexing all the documents those our development team has been working with.
 2. If there is any document that are not allowed to publish here or we violate the copyright rules, please feel free
-to [connect us] (mailto:support@beehexa.com) for removing it.
+to [connect us](mailto:support@beehexa.com) for removing it.
 3. You are free to share any document as long as it does not violate any specific license term of that document.
