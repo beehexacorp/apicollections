@@ -2,7 +2,7 @@
 
 ## Overview
 
-We have been working with a lot of systems like SAP B1, Sap Business ByDesign, QuickBooks Desktop, Microsoft Dynamics AX or Infor Syteline
+We have been working with a lot of systems like SAP B1, Sap Business ByDesign, QuickBooks Desktop, Oracle NetSuite, Microsoft Dynamics AX or Infor Syteline
 It is not easy to find the exact documents to gurantee a successfull integration projects. We collect them all and note here to save your time
 of digging the Internet.
 
